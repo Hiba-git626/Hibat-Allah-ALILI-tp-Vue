@@ -1,0 +1,8 @@
+{
+  "jobs": [
+    { "id": "1", "title": "Développeur·euse Vue.js", "company": "Atlas Digital", "location": "Marrakech · Hybride", "description": "Construire des interfaces accessibles et rapides avec Vue 3. Collaborer avec le design et l’équipe API, documenter les composants et participer aux revues de code.", "salary": 14000, "experience": 2, "createdAt": "2026-10-20", "type": "CDI" },
+    { "id": "2", "title": "Développeur·euse Java", "company": "SafiTech", "location": "Safi · Sur site", "description": "Concevoir des services REST en Java, contribuer à la qualité des données et accompagner les mises en production avec l’équipe produit.", "salary": 12000, "experience": 1, "createdAt": "2026-10-18", "type": "CDI" },
+    { "id": "3", "title": "UI/UX Designer", "company": "Studio K", "location": "Télétravail", "description": "Créer des parcours utilisateurs clairs, des prototypes et un système de composants cohérent pour une application web de services.", "salary": 9000, "experience": 3, "createdAt": "2026-10-15", "type": "Freelance" },
+    { "id": "4", "title": "Stagiaire développement web", "company": "Nexa Maroc", "location": "Casablanca · Hybride", "description": "Participer à l’évolution d’une application web, corriger des anomalies et apprendre les pratiques de développement en équipe.", "salary": 4000, "experience": 0, "createdAt": "2026-10-12", "type": "Stage" }
+  ]
+}
